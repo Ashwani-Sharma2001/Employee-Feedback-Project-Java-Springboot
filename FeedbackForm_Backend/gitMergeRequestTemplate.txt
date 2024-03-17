@@ -1,0 +1,17 @@
+Changes made in this request are related to:
+
+[TicketNumber - One line brief of ticket](https://sprints.zoho.in/team/minditsystems)
+
+> Brief description of the solution implemented.
+
+Please ensure the following guidelines have been properly followed in this merge request:
+
+- [ ] Followed self code review checklist.
+- [ ] Linting of the code is done.
+- [ ] Logs are implemented properly (Optional).
+- [ ] Unit testing is done for the code change.
+- [ ] Merge request is labeled properly (Optional).
+- [ ] Reviewer is assigned for this merge request.
+- [ ] Assignee is assigned for this merge request.
+
+> Any comment that developer wants to add for a specific merge request (Optional)?
